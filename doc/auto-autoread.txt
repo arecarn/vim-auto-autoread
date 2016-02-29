@@ -1,0 +1,23 @@
+*auto-autoread* make 'autoread' load files automatically
+
+                                  auto-autoread~
+
+Description ........................................ |auto-autoread-description|
+Usage .............................................. |auto-autoread-usage|
+
+                                                             *auto-autoread.txt*
+
+==============================================================================
+DESCRIPTION                                          *auto-autoread-description*
+
+|auto-autoread| does what I would expect the setting 'autoread' to actually
+do, update files in vim when they have been changed outside of vim without
+having to do anything special.
+
+==============================================================================
+USAGE                                                      *auto-autoread-usage*
+
+Just set 'autoread' and you should be set.
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:norl:fdm=manual:
